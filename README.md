@@ -1,1 +1,1 @@
-# Course5-Sequence-Models
+# Course 5 : Sequence Models of Deep Learning Specialization Offered by Coursera
